@@ -1,0 +1,11 @@
+{
+  "next_id": 2,
+  "products": [
+    {
+      "id": 1,
+      "name": "Notebook",
+      "price": "4.50",
+      "quantity": 10
+    }
+  ]
+}
